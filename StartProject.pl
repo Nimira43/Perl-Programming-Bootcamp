@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-$name;
+my $name = "Leonardo";
 
 print("Hello $name Perl World!\n");
 
