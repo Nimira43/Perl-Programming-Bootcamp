@@ -16,3 +16,8 @@ comment
 
 print("Hello $name Perl World!\n");
 
+# scalar variables
+my $driver = "Lewis Hamilton";
+my $wins = 105;
+
+print("$driver has won $wins Grands Prix\n");
