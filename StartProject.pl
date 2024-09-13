@@ -34,3 +34,8 @@ print $wins - $poles . "\n";
 print $wins * $poles . "\n";
 print $wins / $poles . "\n";
 print $wins % $championships . "\n";
+
+print $wins > $poles . "\n";
+print $wins < $poles . "\n";
+print $wins != $poles . "\n";
+print $wins == $poles . "\n";
