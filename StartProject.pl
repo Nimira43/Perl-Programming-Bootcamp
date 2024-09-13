@@ -29,3 +29,8 @@ print $wins + $championships . "\n";
 
 # The followin throws an error - Argument "McLaren" isn't numeric in addition (+) at StartProject.pl line 32. 
 print $wins + $team . "\n";
+print $wins + $poles . "\n";
+print $wins - $poles . "\n";
+print $wins * $poles . "\n";
+print $wins / $poles . "\n";
+print $wins % $championships . "\n";
