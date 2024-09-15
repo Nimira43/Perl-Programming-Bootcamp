@@ -37,5 +37,5 @@ print $wins / $poles . "\n";
 my $pet = "cat";
 my $name2 = "Lenny";
 
-
-
+print($driver . " drove for " . $team . "\n");
+print($name x 4);
